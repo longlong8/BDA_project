@@ -1,0 +1,49 @@
+****************************************************
+Summary description of the datasets
+****************************************************
+
+
+1. Chicago_Crimes_-_2001_to_present
+
+This dataset reflects reported incidents of crime (with the exception of murders where data exists for each victim) that occurred in the City of Chicago from 2001 to present, minus the most recent seven days. Data is extracted from the Chicago Police Department's CLEAR (Citizen Law Enforcement Analysis and Reporting) system.
+
+Source: https://catalog.data.gov/dataset/crimes-2001-to-present-398a4
+
+Column header:
+ID	Case Number	Date	Block	IUCR	Primary Type	Description	Location Description	Arrest	Domestic	Beat	District	Ward	Community Area	FBI Code	X Coordinate	Y Coordinate	Year	Updated On	Latitude	Longitude	Location
+
+
+2. NYPD_Complaint_Data_Historic
+
+This dataset includes all valid felony, misdemeanor, and violation crimes reported to the New York City Police Department (NYPD) from 2006 to the end of last year (2015).
+
+Source: https://catalog.data.gov/dataset/nypd-complaint-data-historic
+https://catalog.data.gov/dataset/nypd-complaint-data-historic
+
+3. LosAngelesCrimes_2012-2015
+
+This is the combined raw crime data for 2012 through 2015. Currently, crime data is refreshed on an annual basis. However, we are exploring automated methods and looking to increase this frequency. 
+
+Source: https://catalog.data.gov/dataset/crimes-2012-2015
+https://data.lacity.org/A-Safe-City/Crimes-2012-2015/s9rj-h3s6/data
+
+4. SFPD Incidents - from 1 January 2003  
+
+Incidents derived from SFPD Crime Incident Reporting system Updated daily, showing data from 1/1/2003 up until two weeks ago from current date. Please note: San Francisco police have implemented a new system for tracking crime. The dataset included here is still coming from the old system, which is in the process of being retired (a multi-year process). Data included here is no longer the official SFPD data. We will migrate to the new system for DataSF in the upcoming months.
+
+Source: 
+https://catalog.data.gov/dataset/sfpd-incidents-from-1-january-2014
+https://data.sfgov.org/Public-Safety/SFPD-Incidents-from-1-January-2003/tmnf-yvry
+
+5. Seattle_Police_Department_Police_Report_Incident
+
+These incidents are based on initial police reports taken by officers when responding to incidents around the city. The information enters our Records Management System (RMS) and is then transmitted out to data.seattle.gov. This information is published within 6 to 12 hours after the report is filed into the system.
+
+Source: https://catalog.data.gov/dataset/seattle-police-department-police-report-incident-7430a
+https://data.seattle.gov/Public-Safety/Seattle-Police-Department-Police-Report-Incident/7ais-f98f
+
+6. Crime_Incident_Reports__July_2012_-_August_2015___Source__Legacy_System_
+
+Crime Incident Reports provided by Boston Police Department
+
+Source: https://data.cityofboston.gov/Public-Safety/Crime-Incident-Reports-July-2012-August-2015-Sourc/7cdf-6fgx
