@@ -1,0 +1,14 @@
+use locations as filter parameter:
+https://dev.twitter.com/streaming/overview/request-parameters#locations
+
+find the long and lat box
+ http://boundingbox.klokantech.com/
+
+
+SF: -122.75,37.61,-122.34,37.84
+CHI: -87.940267,41.644335,-87.523661,42.023131
+NY: -74.069824,40.477399,-73.700272,40.912475
+LA: -118.6682,33.7037,-118.1553,34.3373
+BOS: -71.191113,42.290009,-70.992966,42.40082
+SEA: -122.459696,47.491912,-122.224433,47.734145
+
